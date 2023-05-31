@@ -22,7 +22,6 @@ Within these virtual walls, prepare to delve deep into the captivating world of 
 
 
 * * *
-### Ready to Begin?
+### Welcome to my Cyber Security Space!
 * * *
 
-Welcome to my Cyber Security Space!
