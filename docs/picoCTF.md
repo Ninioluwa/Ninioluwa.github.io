@@ -1,3 +1,3 @@
-## picoCTF Writeups
+
 
 * * *

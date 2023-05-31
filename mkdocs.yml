@@ -3,6 +3,7 @@ site_url: https://ninioluwa.github.io/
 nav:
     - Home: index.md
     - picoCTF: picoCTF.md 
+    - HTB: htb.md
     
 theme:
   name: material
