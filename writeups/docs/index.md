@@ -1,13 +1,8 @@
----
-layout: default
-title: Home
----
-
 * * *
 ### Welcome To My Cyber Security Space!
 * * *
 
-Hola 👋, Welcome To My Cyber Security Space I'm s0mbr4. This space is for sharing impactful cybersecurity content I come across and showcasing my problem solving skills with writeups on CTF challenges.
+Hola 👋, Welcome To My Cyber Security Space I'm `s0mbr4`. This space is for sharing impactful cybersecurity content I come across and showcasing my problem solving skills with writeups on CTF challenges.
 
 * * *
 ### Unveiling the Eminence in the Shadows: An Introduction
