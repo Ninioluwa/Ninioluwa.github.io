@@ -2,8 +2,10 @@ site_name: s0mbr4's space
 site_url: https://ninioluwa.github.io/
 nav:
     - Home: index.md
-    - picoCTF: picoCTF.md 
+    - 'picoCTF': 'picoCTF.md'
     - HTB: htb.md
+    - 'Misc': 'Misc/misc.md'
+    
     
 theme:
   name: material
